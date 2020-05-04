@@ -1,0 +1,18 @@
+{
+    "type": ["StringToInt"],
+    "message0": "將字串轉成數字 %1",
+    "args0": [
+      {
+        "type": "input_value",
+        "name": "字串",
+        "check": "String"
+      }
+    ],
+    "scripts": [
+        "blockly/blocks.js",
+        "blockly/javascript.js"
+    ],
+    "colour": 230,
+    "tooltip": "",
+    "helpUrl": ""
+  }
